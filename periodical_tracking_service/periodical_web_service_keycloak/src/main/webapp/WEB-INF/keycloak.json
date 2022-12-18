@@ -1,0 +1,10 @@
+{
+  "realm": "LabKeycloak",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "resource": "login-app",
+  "credentials": {
+    "secret": "8652f40e-f6cf-48d7-9c1a-02ecebce017b"
+  },
+  "use-resource-role-mappings" : true,
+  "bearer-only": true
+}
